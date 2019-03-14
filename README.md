@@ -2,9 +2,9 @@
 Versioning di benvenuto al corso di ingegneria informatica.
 
 Come procedere per dare il proprio saluto:
--Registrare un'account su github usufruendo dei vantaggi volti agli studenti;
--Scaricare ed installare github desktop ed accedere con le proprie credenziali;
--All'apertura di github desktop per aggiungere la Repository "HelloIngegneria" è sufficente cliccare sul pulsante "clone a Repository " e inserire l'url della repository:  https://github.com/ClaudioSirocchi/HelloIngegneria;
+-Registrare un'account su github usufruendo dei vantaggi volti agli studenti\n
+-Scaricare ed installare github desktop ed accedere con le proprie credenziali\n
+-All'apertura di github desktop per aggiungere la Repository "HelloIngegneria" è sufficente cliccare sul pulsante "clone a Repository " e inserire l'url della repository:  https://github.com/ClaudioSirocchi/HelloIngegneria \n
 fatto ciò verrà creata una copia locale sulla quale lavorare;
 
 Dopo aver configurato git hub desktop è necessario configurare l'add-on di EGit  scaricabile dal marketplace di Eclipse :  http://marketplace.eclipse.org/content/egit-git-integration-eclipse
