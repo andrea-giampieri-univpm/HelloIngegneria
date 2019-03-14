@@ -17,5 +17,14 @@ Per mettere in relazione il nostro progetto con la repository:
 -Sul menu a tendina spostarsi sulla voce Team e selezionare la voce "Share Project"
 -Sulla finestra che si apre cliccare sul pulsante  "Create..."; si aprirà un'altra finestra dove cliccando su "Browse..." dove dovremmo andare a selezionare la cartella della Repository che ci siamo copiati sul nostro PC poi confermare e di nuovo confermare.
 
-A questo punto sul menu a tendina alla voce Team Saranno comparse numerose funzioni, Modifichiamo il programma scrivendo il nome e poi dalla voce team vado ad effettuare un commit
+A questo punto sul menu a tendina alla voce Team Saranno comparse numerose funzioni, basta modificare il programma scrivendo il proprio nome e poi fare commit sulla Repository locale e successivamente in quella online nel seguente modo:
+
+-Recarsi sul menu a tendina alla voce team
+-Selezionare l'operazione di commit
+-Nel menu che compare nella parte inferiore di Eclipse spostare i file modificati dalla sezione "Unstaged Changes" alla sezione "Staged Changes" e infine un messaggio nella TextBox "Commit Message" dove esplicitare le modifiche apportate.
+-Cliccare sul pulsante Commit in basso a destra.
+
+Dopo aver fatto il commit basterà aprire GitHub Desktop e cliccare sulla voce "PushOrigin" nel menu in alto a destra.
+
+Fatto ciò avrete Caricato la vostra versione di HelloIngegneria nella repository online.
 
