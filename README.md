@@ -20,10 +20,12 @@ Per mettere in relazione il nostro progetto con la repository:
 A questo punto sul menu a tendina alla voce Team Saranno comparse numerose funzioni, basta modificare il programma scrivendo il proprio nome e poi fare commit sulla Repository locale e successivamente in quella online nel seguente modo:
 - Recarsi sul menu a tendina alla voce team;
 - Selezionare l'operazione di commit;
-- el menu che compare nella parte inferiore di Eclipse spostare i file modificati dalla sezione "Unstaged Changes" alla sezione "Staged Changes" e infine un messaggio nella TextBox "Commit Message" dove esplicitare le modifiche apportate;
+- Nel menu che compare nella parte inferiore di Eclipse spostare i file modificati dalla sezione "Unstaged Changes" alla sezione "Staged Changes" e infine un messaggio nella TextBox "Commit Message" dove esplicitare le modifiche apportate;
 - Cliccare sul pulsante Commit in basso a destra;
 
 Dopo aver fatto il commit basterà aprire GitHub Desktop e cliccare sulla voce "PushOrigin" nel menu in alto a destra.
 
 Fatto ciò avrete Caricato la vostra versione di HelloIngegneria nella repository online.
+
+Le operazioni sopra riportate sono state effettuate su ambiente macOS ver:10.14.3, GitHub Desktop for macOS ver:1.6.3, Eclipse for macOS 2018-12 (4.10.0), EGit 5.2..0
 
